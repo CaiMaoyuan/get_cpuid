@@ -1,0 +1,4 @@
+/home/yangguan/cpp/get_cpuid/build/CMakeFiles/lib-name.dir
+/home/yangguan/cpp/get_cpuid/build/CMakeFiles/exeName.dir
+/home/yangguan/cpp/get_cpuid/build/CMakeFiles/edit_cache.dir
+/home/yangguan/cpp/get_cpuid/build/CMakeFiles/rebuild_cache.dir
